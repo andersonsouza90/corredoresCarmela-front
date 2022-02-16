@@ -11813,13 +11813,25 @@ section#contact form#contactForm :-ms-input-placeholder {
     padding: 9.25rem 0;
   }
 
+  .section-login {
+    padding: 14.25rem 0;
+  }
+
   section#inscricao {
     padding: 5.16rem 0 !important;
     background-color: #fff !important;
   }
 
+  .checkInscricoes {
+    font-size: 45px !important;
+  }
+
   .containerInscricao {
     padding: 25px !important;
+  }
+
+  .section-evento-detalhe{
+    padding: 16.75rem 0 !important;
   }
 
 }
@@ -11838,4 +11850,8 @@ section#inscricao {
 .containerInscricao {
   background-color: #fff;
   padding: 70px;
+}
+
+.section-evento-detalhe{
+  padding: 11.25rem 0;
 }
